@@ -4,6 +4,13 @@ Project using machine learning to predict the outcome of Formula 1 races.
 ### Objective
 Be able to predict the outcome of Formula 1 races, mainly focusing on accuracy of predicting podium positions.
 ### Results
+model
+
+linear_regression            0.500000
+
+neural_network_classifier    0.636364
+
+nn_regressor                 0.681818
 
 ### Conclusions
 
